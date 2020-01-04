@@ -20,7 +20,6 @@
 ## :eyes:  Author
 
 HTML、CSS、Javascriptの基礎を終えた段階で、発展のアウトプットとして[PokeAPI](https://pokeapi.co/)を用いて作成。  
-ポケモンはそれほど詳しくはない。
 
 - [twitter](https://twitter.com/wafuwafu13_)
 - [Qiita](https://qiita.com/wafuwafu13)
